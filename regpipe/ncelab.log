@@ -1,0 +1,6 @@
+ncelab(64): 15.20-s051: (c) Copyright 1995-2018 Cadence Design Systems, Inc.
+ncelab: *E,MTOMDU: More than one unit matches 'worklib.regg_ex': 
+	module worklib.regg_ex:module (VST)
+	module worklib.regg_ex:v (VST).
+ncelab: Memory Usage - 49.9M program + 25.7M data = 75.6M total (Peak 75.6M)
+ncelab: CPU Usage - 0.0s system + 0.0s user = 0.0s total (0.0s, 52.0% cpu)

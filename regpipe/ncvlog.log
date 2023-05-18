@@ -1,0 +1,4 @@
+ncvlog(64): 15.20-s051: (c) Copyright 1995-2018 Cadence Design Systems, Inc.
+ncvlog: *F,MOUNIT: more than one unit matches worklib.regg_ex - worklib.regg_ex:module & worklib.regg_ex:v.
+ncvlog: Memory Usage - 21.3M program + 22.1M data = 43.4M total
+ncvlog: CPU Usage - 0.0s system + 0.0s user = 0.0s total (0.0s, 45.5% cpu)
