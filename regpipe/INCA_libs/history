@@ -1,9 +1,0 @@
-//
-// File created by:  irun
-// Do not modify this file
-
-s1::(15Feb2023:12:26:03):( irun -access +rwc register.v )
-s2::(15Feb2023:12:27:17):( irun -access +rwc register.v )
-s3::(15Feb2023:12:28:45):( irun -access +rwc register.v )
-s4::(15Feb2023:12:29:49):( irun -access +rwc register.v )
-s5::(15Feb2023:12:54:19):( irun -access +rwc register.v )
